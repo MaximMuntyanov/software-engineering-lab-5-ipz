@@ -54,7 +54,7 @@ double calculate(double x, int n)
 		for (int j = 2; j <= n - 2; j++)
 		{
 
-			y *= j * j;
+			y *= j * j + 200;
 
 		}
 		 
@@ -69,7 +69,7 @@ double calculate(double x, int n)
 
 			for (int j = 0; j <= n - 1; j++)
 			{
-				y *= x + i * i + j;
+				y *= x + i * i + j + 50;
 			}
 			y += p;
 
