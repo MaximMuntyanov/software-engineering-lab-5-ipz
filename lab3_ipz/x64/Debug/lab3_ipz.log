@@ -1,0 +1,8 @@
+﻿  lab3_ipz.cpp
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(72,20): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(50,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(100,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(100,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(104,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\lab3_ipz\lab3_ipz.cpp(80): warning C4715: calculate: значение возвращается не при всех путях выполнения
+  lab3_ipz.vcxproj -> C:\Users\tboim\Desktop\Учеба\лаб ипз\lab3_ipz\lab3_ipz\x64\Debug\lab3_ipz.exe
